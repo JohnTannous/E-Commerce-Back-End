@@ -23,7 +23,8 @@ To use this app, type "npm start" in your terminal and run it.
 ## Contribution
   ​Contributors: John Tannous
 ## Tests
-  The following is needed to run the test: 
+  video displaying usage is found in media folder.
+  
 ## Questions
   My GitHub profile link is: https://github.com/JohnTannous.
   If you have any questions regarding this app, please contact directly at: john.tannous97@gmail.com.
